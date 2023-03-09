@@ -32,7 +32,8 @@
 **C++ & MySQL** - Design and development of a desktop application for a smart court .
 
 </td>
-
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Crud
@@ -44,8 +45,8 @@
 **Html Css Js PHP & phpMyadmin** - Crete,Read Update and Delete  a client from dataBase .
 
 </td>
-
 </tr>
+
 
 </tbody>
 
