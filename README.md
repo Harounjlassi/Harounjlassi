@@ -54,18 +54,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Harounjlassi&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Harounjlassi&show_icons=true" />
-</picture>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-Harounjlassi.vercel.app/?user=Harounjlassi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Harounjlassi.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Harounjlassi.vercel.app/api/top-langs/?username=Harounjlassi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 <br/><br/>
 
 <hr/>
