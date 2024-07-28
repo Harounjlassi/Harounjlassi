@@ -1,64 +1,73 @@
-![](images/haroun.png)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<a href="" target="_blank">![](https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white) </a> [ ![](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white) ](https://www.linkedin.com/in/haroun-jlassi-037a66241/) <a href="" target="_blank"> ![](https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white) </a> <a href="" target="_blank"> ![](https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white) </a> <a href="" target="_blank">![](https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white)</a> 
-# Projects
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=DF0707&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Haroun+Jlassi!" />
+</h1>
 
-<table bordercolor="#66b2b2">
+<h3 align="center">A passionate cloud engineer and software developer from Tunisia</h3>
 
-<tbody>
+<br/>
 
-<tr>
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-<td width="60%" valign="top">
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Harounjlassi/Harounjlassi/issues)**
 
-### Esif
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-<a target="_blank" href="">![ezif](images/ezgif.gif)</a>   
+</div>
 
-<a href="" target="_blank">![](https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white)</a> 
+<div align="center"> 
+  <a href="mailto:pedro.sales.harounjlassi11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/haroun-jlassi-037a66241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://haroun-one.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
 
-**C programming under Linux** - 2D Isometric game with its controller .
+<hr/>
 
-</td>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+</div>
 
-<td width="50%" valign="top">
+<br/>
+<hr/>
 
-### Smart Court
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Harounjlassi/Harounjlassi/output/snake.svg" />
+</div>
 
-<a target="_blank" href="">![smartcourt](images/smartcourt.gif)</a>   
+<hr/>
 
-<a href="" target="_blank">![](https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white)</a> 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harounjlassi&layout=compact)
+</div>
 
-**C++ & MySQL** - Design and development of a desktop application for a smart court .
+<br/><br/>
 
-</td>
-</tr>
-</tbody>
+<hr/>
 
-</table>
-<table bordercolor="#66b2b2">
+<br/>
 
-<tbody>
-<tr>
-<td width="100%" valign="top">
+<div align="center">
+  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+    <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</div>
 
-
-
-</td>
-</tr>
-
-
-</tbody>
-
-</table>
-
-# Technologies
-
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-# Connect
-
-<a href="" target="_blank">![](https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white) </a> [ ![](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white) ](https://www.linkedin.com/in/haroun-jlassi-037a66241/) <a href="" target="_blank"> ![](https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white) </a> <a href="" target="_blank"> ![](https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white) </a> <a href="" target="_blank">![](https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white)</a>
-
-
-![snake gif](https://raw.githubusercontent.com/Harounjlassi/Harounjlassi/output/snake.svg)
+<br/>
