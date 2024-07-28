@@ -61,4 +61,4 @@
 <a href="" target="_blank">![](https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white) </a> [ ![](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white) ](https://www.linkedin.com/in/haroun-jlassi-037a66241/) <a href="" target="_blank"> ![](https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white) </a> <a href="" target="_blank"> ![](https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white) </a> <a href="" target="_blank">![](https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white)</a>
 
 
-https://github.com/Harounjlassi/Harounjlassi/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/Harounjlassi/Harounjlassi/blob/output/github-contribution-grid-snake.gif)
