@@ -58,7 +58,8 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Harounjlassi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&title_color=df0707&text_color=555555&icon_color=fa8b00&bg_color=fefefe&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&title_color=df0707&text_color=ffffff&icon_color=df0707&bg_color=000000&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+
 
 
 </div>
