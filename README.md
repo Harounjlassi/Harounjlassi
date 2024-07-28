@@ -55,8 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harounjlassi&layout=compact)
-</div>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harounjlassi&layout=compact" alt="top langs" /></div>
 
 <br/><br/>
 
