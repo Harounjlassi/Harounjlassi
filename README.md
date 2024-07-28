@@ -55,8 +55,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Harounjlassi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&title_color=df0707&text_color=ffffff&icon_color=df0707&bg_color=000000&border_radius=10" alt="GitHub Stats" />
+
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Harounjlassi&count_private=true&theme=dark&border_radius=10&ring=df0707&fire=df0707&background=000000" alt="streak stats"/>
+
   <br/>
 <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&title_color=df0707&text_color=ffffff&icon_color=df0707&bg_color=000000&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 
