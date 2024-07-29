@@ -54,7 +54,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=df0707&bg_color=000000&border_radius=10" alt="GitHub Stats" />
+ <img width="390" src="https://github-readme-stats-sales.vercel.app/api?username=Harounjlassi&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=df0707&bg_color=000000&border_radius=10" alt="GitHub Stats" />
 
 <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Harounjlassi&count_private=true&theme=dark&border_radius=10&ring=df0707&fire=df0707&background=000000" alt="streak stats"/>
 
